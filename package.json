@@ -1,0 +1,21 @@
+{
+  "name": "sass_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w ./assets/stylesheets/main.scss ./assets/stylesheets/main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "chaharshivam"
+  },
+  "keywords": [
+    "sass"
+  ],
+  "author": "Shivam Chahar",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
